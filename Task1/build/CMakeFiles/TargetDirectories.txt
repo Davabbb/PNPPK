@@ -1,0 +1,3 @@
+/Users/david/CLionProjects/PNPPK/Task1/build/CMakeFiles/Task1.dir
+/Users/david/CLionProjects/PNPPK/Task1/build/CMakeFiles/edit_cache.dir
+/Users/david/CLionProjects/PNPPK/Task1/build/CMakeFiles/rebuild_cache.dir
